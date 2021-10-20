@@ -18,17 +18,17 @@ I’m a 16yr old Nerd. I make cool websites, ML models and Smart contracts
 - 📫 How to reach me **krishnapg2315@gmail.com**
 <br><br>
 <hr>
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning more about ML and Web3
-- 👯 I’m looking to collaborate on any fun project
-- 💬 Ask me about Tech,astrophysics or sed lyf
-- ⚡ Fun fact: Im an ADHD 
+- 🔭 I’m currently working on personal projects <br />
+- 🌱 I’m currently learning more about ML and Web3<br />
+- 👯 I’m looking to collaborate on any fun project<br />
+- 💬 Ask me about Tech,astrophysics or sed lyf<b4 />
+- ⚡ Fun fact: Im an ADHD<b3 />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/OccupyingM" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="OccupyingM" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 
 <hr>
-## ⚡ Languages and Tools:
+<h6>⚡ Languages and Tools: </h6>
 <p align="left">  
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="55" height="55"/> </a> 
